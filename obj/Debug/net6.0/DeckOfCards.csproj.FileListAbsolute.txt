@@ -1,0 +1,15 @@
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/DeckOfCards
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/DeckOfCards.deps.json
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/DeckOfCards.runtimeconfig.json
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/DeckOfCards.dll
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/ref/DeckOfCards.dll
+/home/luser/pgming/DeckOfCards/bin/Debug/net6.0/DeckOfCards.pdb
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.csproj.AssemblyReference.cache
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.AssemblyInfoInputs.cache
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.AssemblyInfo.cs
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.dll
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/ref/DeckOfCards.dll
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.pdb
+/home/luser/pgming/DeckOfCards/obj/Debug/net6.0/DeckOfCards.genruntimeconfig.cache
